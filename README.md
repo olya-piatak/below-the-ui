@@ -1,5 +1,7 @@
 # below-the-ui
 
+[![ci](https://github.com/olya-piatak/below-the-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/olya-piatak/below-the-ui/actions/workflows/ci.yml)
+
 Playwright and TypeScript tests that compare what the UI shows with what the
 system actually stored.
 
